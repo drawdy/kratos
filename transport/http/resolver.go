@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-kratos/kratos/v2/internal/endpoint"
-	"github.com/go-kratos/kratos/v2/log"
-	"github.com/go-kratos/kratos/v2/registry"
-	"github.com/go-kratos/kratos/v2/selector"
+	"github.com/drawdy/kratos/v2/internal/endpoint"
+	"github.com/drawdy/kratos/v2/log"
+	"github.com/drawdy/kratos/v2/registry"
+	"github.com/drawdy/kratos/v2/selector"
 )
 
 // Target is resolver target

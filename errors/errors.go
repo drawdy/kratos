@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	httpstatus "github.com/go-kratos/kratos/v2/transport/http/status"
+	httpstatus "github.com/drawdy/kratos/v2/transport/http/status"
 	"google.golang.org/genproto/googleapis/rpc/errdetails"
 	"google.golang.org/grpc/status"
 	"google.golang.org/protobuf/proto"

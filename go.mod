@@ -1,4 +1,4 @@
-module github.com/go-kratos/kratos/v2
+module github.com/drawdy/kratos/v2
 
 go 1.16
 

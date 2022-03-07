@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-kratos/kratos/v2/registry"
+	"github.com/drawdy/kratos/v2/registry"
 )
 
 type mockWeightedNode struct {

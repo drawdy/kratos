@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-kratos/kratos/v2/log"
-	"github.com/go-kratos/kratos/v2/middleware"
-	"github.com/go-kratos/kratos/v2/registry"
+	"github.com/drawdy/kratos/v2/log"
+	"github.com/drawdy/kratos/v2/middleware"
+	"github.com/drawdy/kratos/v2/registry"
 	"google.golang.org/grpc"
 )
 

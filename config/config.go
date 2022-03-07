@@ -7,13 +7,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-kratos/kratos/v2/log"
+	"github.com/drawdy/kratos/v2/log"
 
 	// init encoding
-	_ "github.com/go-kratos/kratos/v2/encoding/json"
-	_ "github.com/go-kratos/kratos/v2/encoding/proto"
-	_ "github.com/go-kratos/kratos/v2/encoding/xml"
-	_ "github.com/go-kratos/kratos/v2/encoding/yaml"
+	_ "github.com/drawdy/kratos/v2/encoding/json"
+	_ "github.com/drawdy/kratos/v2/encoding/proto"
+	_ "github.com/drawdy/kratos/v2/encoding/xml"
+	_ "github.com/drawdy/kratos/v2/encoding/yaml"
 )
 
 var (

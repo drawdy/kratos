@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-kratos/kratos/v2/registry"
-	"github.com/go-kratos/kratos/v2/selector"
+	"github.com/drawdy/kratos/v2/registry"
+	"github.com/drawdy/kratos/v2/selector"
 )
 
 func TestVersion(t *testing.T) {

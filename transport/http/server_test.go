@@ -13,10 +13,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-kratos/kratos/v2/errors"
-	"github.com/go-kratos/kratos/v2/middleware"
+	"github.com/drawdy/kratos/v2/errors"
+	"github.com/drawdy/kratos/v2/middleware"
 
-	"github.com/go-kratos/kratos/v2/internal/host"
+	"github.com/drawdy/kratos/v2/internal/host"
 )
 
 type testKey struct{}
